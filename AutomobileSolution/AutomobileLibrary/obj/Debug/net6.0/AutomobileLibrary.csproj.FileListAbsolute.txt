@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
