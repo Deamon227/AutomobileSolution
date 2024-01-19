@@ -97,7 +97,7 @@ namespace AutomobileWinApp
 
                 txtCarId.DataBindings.Add("Text", src, "CarID");
                 txtCarName.DataBindings.Add("Text", src, "CarName");
-                txtManufacter.DataBindings.Add("Text", src, "Manufacter");
+                txtManufacter.DataBindings.Add("Text", src, "Manufacturer");
                 txtPrice.DataBindings.Add("Text", src, "Price");
                 txtReleaseYear.DataBindings.Add("Text", src, "Releaseyear");
 

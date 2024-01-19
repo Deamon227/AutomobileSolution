@@ -24,7 +24,7 @@ namespace AutomobileLibrary.DataAccess
             {
                 lock (instanceLock)
                 {
-                    if ((bool)instanceLock)
+                    if (instance == null)
                     {
                         instance = new CarDBContext();
                     }

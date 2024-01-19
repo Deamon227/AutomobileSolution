@@ -6,3 +6,16 @@ C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-
 C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
 C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfo.cs
 C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.deps.json
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.dll
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.pdb
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileLibrary.dll
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileLibrary.pdb
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CopyComplete
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.dll
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\refint\AutomobileWinApp.dll
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.pdb
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\ref\AutomobileWinApp.dll
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.exe
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.runtimeconfig.json
+C:\Users\hp\Desktop\PRN211\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.genruntimeconfig.cache

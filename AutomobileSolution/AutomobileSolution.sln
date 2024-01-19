@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomobileLibrary", "AutomobileLibrary\AutomobileLibrary.csproj", "{9186A54F-9165-465E-B669-F839F761F4E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomobileWinApp", "AutomobileWinApp\AutomobileWinApp.csproj", "{0C7B03E8-B779-40A8-B5B1-F0BDC60A48BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomobileWinApp", "AutomobileWinApp\AutomobileWinApp.csproj", "{0C7B03E8-B779-40A8-B5B1-F0BDC60A48BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
